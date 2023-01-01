@@ -1,0 +1,3 @@
+{"level":"INFO","time":"2023-01-01T19:59:37.723+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2023-01-01T19:59:52.082+0800","caller":"logger/logger.go:77","msg":"/api/v1/ping","status":200,"method":"GET","path":"/api/v1/ping","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":0.000030542}
+{"level":"INFO","time":"2023-01-01T20:00:17.204+0800","caller":"logger/logger.go:77","msg":"/api/v1/clip","status":200,"method":"POST","path":"/api/v1/clip","query":"","ip":"127.0.0.1","user-agent":"ApiPOST Runtime +https://www.apipost.cn","errors":"","cost":3.575951083}
